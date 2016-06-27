@@ -1,4 +1,4 @@
-#concatenation strinng, sentence
+#concatenate 2 string and create a sentence
 
 name= "nicola"
 surname= "tesla"
